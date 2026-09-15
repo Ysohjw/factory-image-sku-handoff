@@ -1,0 +1,68 @@
+{
+  "files": [
+    {
+      "bytes": 7408,
+      "path": "CONTRACT.md",
+      "sha256": "f4db94435d773c17a82a33ab12f0324e4fbd383739cfdfd39c09b2790ccd6d52"
+    },
+    {
+      "bytes": 1095,
+      "path": "LICENSE",
+      "sha256": "1b755f9355135224bb3ba7b2e4fd0eef06048955fb4783e2d3e1cb28320e4812"
+    },
+    {
+      "bytes": 6646,
+      "path": "README.md",
+      "sha256": "1ae10155169e7fa6667ce6ee2555a57c64877bf5551319efd89cbb42ee40af14"
+    },
+    {
+      "bytes": 2416,
+      "path": "SKILL.md",
+      "sha256": "84209a7a71c91b3bb5fb08ed3edf8cff79f3570ad476b9c1e27083841532e190"
+    },
+    {
+      "bytes": 1203,
+      "path": "THIRD_PARTY_NOTICES.md",
+      "sha256": "30a268597ada2828881a9bc862a83a297629d73f447a7b24e332c3c968f0cb31"
+    },
+    {
+      "bytes": 965,
+      "path": "examples/expected/assets/9c5a48ca419d4d8154989c1e39323016c8cbfa7fc44efa4359ff835068d1d54f.jpg",
+      "sha256": "9c5a48ca419d4d8154989c1e39323016c8cbfa7fc44efa4359ff835068d1d54f"
+    },
+    {
+      "bytes": 146,
+      "path": "examples/expected/assets/fcbf18f726ef65a30f5579ff6641cfdeaf968a786e17f57b4c37b67aee4b0c7d.png",
+      "sha256": "fcbf18f726ef65a30f5579ff6641cfdeaf968a786e17f57b4c37b67aee4b0c7d"
+    },
+    {
+      "bytes": 3519,
+      "path": "examples/expected/manifest.json",
+      "sha256": "0f13eedb2ce21dcaded098807ddeeec106d0b22ef4d646e2f2df091bf6cbf494"
+    },
+    {
+      "bytes": 7295,
+      "path": "examples/products.xlsx",
+      "sha256": "7b3ee41c8d3c021b840d48e37542d997dd51077c158dc0e0dbd85f3f6cfa9be4"
+    },
+    {
+      "bytes": 377,
+      "path": "requirements-win-py312.lock",
+      "sha256": "394084e7a086cbd481cd5c7030bc50cd2933ce3b704efbedc04666d5fcb78c04"
+    },
+    {
+      "bytes": 61,
+      "path": "requirements.txt",
+      "sha256": "de52edd772c48ec063d05ff6d2280df2903df560c9a4a717749c50a2bde7b827"
+    },
+    {
+      "bytes": 35880,
+      "path": "scripts/handoff.py",
+      "sha256": "a13d41056973d5bf9ac08f9dfba97f1b36d05f1f6ec8ced6d84f3304a13c7697"
+    }
+  ],
+  "license": "MIT",
+  "manifest_scope": "All distributed files except MANIFEST.json itself",
+  "product": "factory-image-sku-handoff",
+  "version": "0.1.1-beta.1"
+}
