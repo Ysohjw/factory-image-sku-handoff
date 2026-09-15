@@ -1,0 +1,130 @@
+{
+  "assets": [
+    {
+      "asset_id": "9c5a48ca419d4d8154989c1e39323016c8cbfa7fc44efa4359ff835068d1d54f",
+      "byte_length": 965,
+      "format": "jpg",
+      "output_path": "assets/9c5a48ca419d4d8154989c1e39323016c8cbfa7fc44efa4359ff835068d1d54f.jpg",
+      "package_members": [
+        "xl/media/image2.jpeg"
+      ],
+      "reason_codes": [],
+      "sha256": "9c5a48ca419d4d8154989c1e39323016c8cbfa7fc44efa4359ff835068d1d54f"
+    },
+    {
+      "asset_id": "fcbf18f726ef65a30f5579ff6641cfdeaf968a786e17f57b4c37b67aee4b0c7d",
+      "byte_length": 146,
+      "format": "png",
+      "output_path": "assets/fcbf18f726ef65a30f5579ff6641cfdeaf968a786e17f57b4c37b67aee4b0c7d.png",
+      "package_members": [
+        "xl/media/image1.png"
+      ],
+      "reason_codes": [],
+      "sha256": "fcbf18f726ef65a30f5579ff6641cfdeaf968a786e17f57b4c37b67aee4b0c7d"
+    }
+  ],
+  "issues": [],
+  "layout": {
+    "first_data_row": 2,
+    "image_columns": [
+      "B"
+    ],
+    "ownership_rule": "user_declared_row_layout_requires_human_semantic_confirmation",
+    "sheet": "Products",
+    "sku_column": "A"
+  },
+  "occurrences": [
+    {
+      "anchor": {
+        "explicit_row_height_points": 40.0,
+        "extent_emu": {
+          "height": 228600,
+          "width": 457200
+        },
+        "from": {
+          "column": 1,
+          "column_offset_emu": 0,
+          "row": 1,
+          "row_offset_emu": 0
+        },
+        "horizontal_rule": "declared_start_column_only",
+        "kind": "oneCellAnchor"
+      },
+      "asset_id": "fcbf18f726ef65a30f5579ff6641cfdeaf968a786e17f57b4c37b67aee4b0c7d",
+      "candidate_row": 2,
+      "disposition": "eligible",
+      "occurrence_id": "image-0001",
+      "reason_codes": [],
+      "relationship_id": "rId1",
+      "sheet": "Products",
+      "sku": {
+        "data_type": "s",
+        "number_format": "General",
+        "value": "000072"
+      },
+      "sku_cell": "A2",
+      "source_part": "xl/drawings/drawing1.xml"
+    },
+    {
+      "anchor": {
+        "explicit_row_height_points": 40.0,
+        "extent_emu": {
+          "height": 228600,
+          "width": 457200
+        },
+        "from": {
+          "column": 1,
+          "column_offset_emu": 0,
+          "row": 2,
+          "row_offset_emu": 0
+        },
+        "horizontal_rule": "declared_start_column_only",
+        "kind": "oneCellAnchor"
+      },
+      "asset_id": "9c5a48ca419d4d8154989c1e39323016c8cbfa7fc44efa4359ff835068d1d54f",
+      "candidate_row": 3,
+      "disposition": "eligible",
+      "occurrence_id": "image-0002",
+      "reason_codes": [],
+      "relationship_id": "rId2",
+      "sheet": "Products",
+      "sku": {
+        "data_type": "s",
+        "number_format": "General",
+        "value": " 000073-蓝 "
+      },
+      "sku_cell": "A3",
+      "source_part": "xl/drawings/drawing1.xml"
+    }
+  ],
+  "rows": [
+    {
+      "disposition": "eligible",
+      "image_count": 1,
+      "reason_codes": [],
+      "row": 2,
+      "sku": {
+        "data_type": "s",
+        "number_format": "General",
+        "value": "000072"
+      },
+      "sku_cell": "A2"
+    },
+    {
+      "disposition": "eligible",
+      "image_count": 1,
+      "reason_codes": [],
+      "row": 3,
+      "sku": {
+        "data_type": "s",
+        "number_format": "General",
+        "value": " 000073-蓝 "
+      },
+      "sku_cell": "A3"
+    }
+  ],
+  "schema_version": "1.0",
+  "source_sha256": "7b3ee41c8d3c021b840d48e37542d997dd51077c158dc0e0dbd85f3f6cfa9be4",
+  "status": "eligible",
+  "tool_version": "0.1.1-beta.1"
+}
